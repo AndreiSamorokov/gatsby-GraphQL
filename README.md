@@ -5,6 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby 4th GraphQL First step
+  Gatsby 4th GraphQL Second Step.
 </h1>
+<span> Using File system npm module </span>
  
