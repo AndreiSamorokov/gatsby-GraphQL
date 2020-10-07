@@ -7,6 +7,6 @@
 <h1 align="center">
   Gatsby 4th GraphQL Step.
 </h1>
-<span> 1. Gasby GraphQL simple echo </span>
-<span> 2. Using File system npm module </span>
- 
+<p> 1. Gasby GraphQL simple echo </p>
+<p> 2. Using File system npm module </p>
+<p> 3. Using slug and create sub pages </p>
